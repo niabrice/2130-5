@@ -1,2 +1,2 @@
 # 2130-5
-learning the terminal program for Gary's software
+Learning the terminal program for Gary's software.
